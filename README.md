@@ -19,19 +19,19 @@ An official game guide is included in the repository:
 ## Screenshots
 
 ### Title Screen
-![Title Screen](Screenshots/title-screen.png)
+![Title Screen](Ashen Legacy - Gameplay Screenshots/title-screen.png)
 
 ### Main Menu
-![Main Menu](Screenshots/main-menu.png)
+![Main Menu](Ashen Legacy - Gameplay Screenshots/main-menu.png)
 
 ### Forest Level
-![Forest Level](Screenshots/forest-level.png)
+![Forest Level](Ashen Legacy - Gameplay Screenshots/forest-level.png)
 
 ### Dungeon Level
-![Dungeon Level](Screenshots/dungeon-level.png)
+![Dungeon Level](Ashen Legacy - Gameplay Screenshots/dungeon-level.png)
 
 ### Boss Battle
-![Boss Battle](Screenshots/boss-fight.png)
+![Boss Battle](Ashen Legacy - Gameplay Screenshots/boss-fight.png)
 
 ### Victory Screen
-![Victory Screen](Screenshots/victory-screen.png)
+![Victory Screen](Ashen Legacy - Gameplay Screenshots/victory-screen.png)
