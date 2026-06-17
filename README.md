@@ -7,6 +7,13 @@ Ashen Legacy is a 2D RPG game developed in Python using Pygame as a Grade 11 com
 An official game guide is included in the repository:
 - Ashen Legacy (Official Game Guide).docx
 
+## How to Play
+
+- Open Ashen Legacy
+- Scroll Down
+- Open PlayAshenLegacy.exe
+- Enjoy
+
 ## Features
 
 - Multiple levels
