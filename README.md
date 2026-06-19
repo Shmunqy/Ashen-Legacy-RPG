@@ -12,7 +12,7 @@ An official game guide is included in the repository:
 - Open Ashen Legacy
 - Scroll Down
 - Open PlayAshenLegacy.exe
-- Enjoy
+- Can you set a new highscore?
 
 ## Features
 
